@@ -16,16 +16,6 @@ Manuel Excel eşleştirmelerindeki insan kaynaklı hataları ve zaman kaybını 
 
 ---
 
-## Proje Dizini
-
-otomasyon_projesi/
-├── main.py                # PyQt5 Masaüstü Arayüzü ve Giriş Noktası
-├── database.py            # SQLAlchemy Veritabanı Modelleri ve SQLite Kurulumu
-├── core.py                # Pandas Eşleştirme ve Analiz Algoritması
-├── generate_test_data.py  # Test İçin Örnek Excel Verisi Üretici
-└── README.md              # Proje Dokümantasyonu
-
-
 ## Kurulum ve Çalıştırma (Linux)
 ### 1. Sistem Bağımlılıkları ve Sanal Ortam
 
